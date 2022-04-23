@@ -6,7 +6,7 @@ Web Developer (MERN)
 
 * 🌍  I'm based in Sarajevo, Bosnia and Herzegovina
 * ✉️  You can contact me at [affan.zukic@icloud.com](mailto:affan.zukic@icloud.com)
-* 🚀  I'm currently working on [A proprietary online library for a high school in Sarajevo](http://online-biblioteka.vercel.app)
+* 🚀  I'm currently working on [a proprietary online library for a high school in Sarajevo](http://online-biblioteka.vercel.app)
 * 🧠  I'm learning PostgreSQL
 * ⚡  I'm a polyglot (English, Bosnian, German and Swedish)
 
