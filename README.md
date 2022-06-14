@@ -8,7 +8,7 @@ Web Developer (MERN)
 * ✉️  You can contact me at [affan.zukic@icloud.com](mailto:affan.zukic@icloud.com)
 * 🚀  I'm currently working on a database management app for [Cybertec](https://cybertec-postgresql.com)
 * 🧠  I'm learning PostgreSQL and React design patterns
-* ⚡  I'm a polyglot (English, Bosnian, German and Swedish)
+* ⚡  I speak multiple languages (English, Bosnian, German and Swedish are spoken fluently)
 
 ### Skills
 
