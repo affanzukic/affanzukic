@@ -1,7 +1,7 @@
 Hi 👋 My name is Afan Zukić
 ===========================
 
-Web Developer (MERN)
+Web Developer
 --------------------
 
 * 🌍  I'm based in Sarajevo, Bosnia and Herzegovina
