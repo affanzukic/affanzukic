@@ -4,9 +4,9 @@ Hi 👋 My name is Afan Zukić
 Full-stack Web Developer
 --------------------
 
-* 🌍 I'm based in Sarajevo, Bosnia and Herzegovina
+* 🌍  I'm based in Sarajevo, Bosnia and Herzegovina
 * ✉️  You can contact me at [affan.zukic@icloud.com](mailto:affan.zukic@icloud.com)
-* 🚀 I'm currently employed at [Cybertec](https://cybertec-postgresql.com)
+* 🚀  I'm currently employed at [Cybertec](https://cybertec-postgresql.com)
 * ⚡  I speak multiple languages (🇬🇧, 🇧🇦, 🇩🇪/🇦🇹 and 🇸🇪)
 
 ### Skills
